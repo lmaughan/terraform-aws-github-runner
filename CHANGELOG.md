@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.10.0](https://github.com/philips-labs/terraform-aws-github-runner/compare/v5.9.0...v5.10.0) (2024-03-15)
+
+
+### Features
+
+* allow caller to provide custom userdata ([#3798](https://github.com/philips-labs/terraform-aws-github-runner/issues/3798)) ([ac49daf](https://github.com/philips-labs/terraform-aws-github-runner/commit/ac49daf4afb14b6710d2d652bc2c0f51fc2af98f))
+
 ## [5.9.0](https://github.com/philips-labs/terraform-aws-github-runner/compare/v5.8.0...v5.9.0) (2024-03-14)
 
 
